@@ -12,6 +12,7 @@ main{
 }
 header, footer{
     text-align: center;
+    padding: 5px;
 }
 nav li{
     list-style-type: none;
